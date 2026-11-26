@@ -78,8 +78,7 @@ python plot_pie.py
 expense-tracker/
 ├── input_expense.py   # 輸入模組
 ├── plot_pie.py        # 視覺化模組
-├── expenses.csv       # 範例資料
-├── pie_chart.png      # 範例圖表
+├── expenses.csv       # 範例資料 會在輸入資料後產生
 ├── requirements.txt
 └── README.md
 ```
